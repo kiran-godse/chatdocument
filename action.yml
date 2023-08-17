@@ -11,5 +11,5 @@ inputs:
     required: true
 
 runs:
-  using: "node14"
-  main: "main.js"
+  using: "node12"
+  main: "index.js"
